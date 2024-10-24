@@ -73,7 +73,7 @@ dependencies {
     implementation project(':module559')
     implementation project(':module652')
     implementation project(':module1187')
-    implementation "com.adyen.checkout:core:1.14.1"
+    implementation "com.adyen.checkout:drop-in:4.0.0"
     implementation project(':module252')
     implementation project(':module948')
     implementation project(':module23')

@@ -34,7 +34,6 @@ android {
 }
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation "com.firebase:firebase-jobdispatcher:0.8.5"
     implementation "org.checkerframework:checker-compat-qual:2.5.5"
     implementation project(':leafModuleMax')
     implementation "org.jetbrains.kotlin:kotlin-allopen:1.4.21"

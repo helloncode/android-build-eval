@@ -7639,7 +7639,7 @@
                         "library": "com.braintreepayments.api:braintree:2.18.0"
                     }, 
                     {
-                        "library": "com.adyen.checkout:core:1.14.1"
+                        "library": "com.adyen.checkout:drop-in:4.0.0"
                     }, 
                     {
                         "library": "androidx.legacy:legacy-support-core-ui:1.0.0"
@@ -13917,10 +13917,7 @@
                     }, 
                     {
                         "library": "io.reactivex.rxjava2:rxandroid:2.1.1"
-                    }, 
-                    {
-                        "library": "com.firebase:firebase-jobdispatcher:0.8.5"
-                    }, 
+                    },
                     {
                         "library": "androidx.annotation:annotation-experimental:1.0.0"
                     }
@@ -22596,13 +22593,7 @@
                     }, 
                     {
                         "library": "com.jakewharton.rxrelay2:rxrelay:2.1.0"
-                    }, 
-                    {
-                        "library": "com.camerakit:camerakit:1.0.0-beta3.10"
-                    }, 
-                    {
-                        "library": "com.camerakit:camerakit:1.0.0-beta3.10"
-                    }, 
+                    },
                     {
                         "library": "androidx.annotation:annotation-experimental:1.0.0"
                     }
@@ -33078,7 +33069,7 @@
                         "library": "org.jetbrains.kotlin:kotlin-allopen:1.4.21"
                     }, 
                     {
-                        "library": "com.adyen.checkout:core:1.14.1"
+                        "library": "com.adyen.checkout:drop-in:4.0.0"
                     }, 
                     {
                         "library": "androidx.multidex:multidex:2.0.1"
@@ -53527,7 +53518,7 @@
                         "library": "io.reactivex.rxjava2:rxandroid:2.1.1"
                     }, 
                     {
-                        "library": "com.adyen.checkout:core:1.14.1"
+                        "library": "com.adyen.checkout:drop-in:4.0.0"
                     }, 
                     {
                         "library": "androidx.multidex:multidex:2.0.1"
